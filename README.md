@@ -10,7 +10,7 @@ This app lets you develop your talent in drawing.
 git clone https://github.com/MrPaschenko/Paint
 ```
 
-2. Open Schedule KPI.xcodeproj in Xcode
+2. Open Paint.xcodeproj in Xcode
 
 3. Select some iOS device and hit run button in Xcode
 
